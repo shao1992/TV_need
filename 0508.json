@@ -228,7 +228,7 @@
 
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili"],
 
-"spider": "https://github.com/shao1992/TV_need/blob/main/custom_spider.jar",
+"spider": "https://github.com/shao1992/TV_need/blob/main/custom_spider.jar?raw=true",
 
 
 
